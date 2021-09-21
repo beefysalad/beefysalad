@@ -1,4 +1,4 @@
-### Hi there, am Patrick 👋
+### Hi there, I'm Patrick 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${beefysalad}.${beefysalad})
 ---
 #### Im currently an undergrad of the course Computer Engineering in Cebu Insitute of Technology - University.
