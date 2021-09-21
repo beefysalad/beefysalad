@@ -7,7 +7,7 @@
 
 <!-- Here are some ideas to get you started: -->
 - 🌱 I’m currently learning how not to die xd
-- 💬 You can reach me at [myself](https://www.facebook.com/Jpatrickzxc/)
+- 💬 You can reach me at [John Patrick](https://www.facebook.com/Jpatrickzxc/)
 - ⚡ Fun fact: am gei
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beefysalad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
