@@ -4,7 +4,7 @@
 #### Im currently an undergrad of the course Computer Engineering in Cebu Insitute of Technology - University.
 
 
-- 🌱 I’m currently learning the fundamentals of Wev Development
+- 🌱 I’m currently learning the fundamentals of Web Development
 - 💬 You can reach me at [John Patrick](https://www.facebook.com/Jpatrickzxc/) || jpatrickzephyr@gmail.com
 - ⚡ Fun fact: no fun facts about me xd
 
