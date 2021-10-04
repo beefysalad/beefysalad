@@ -4,9 +4,9 @@
 #### Im currently an undergrad of the course Computer Engineering in Cebu Insitute of Technology - University.
 
 
-- 🌱 I’m currently learning how not to die xd
-- 💬 You can reach me at [John Patrick](https://www.facebook.com/Jpatrickzxc/)
-- ⚡ Fun fact: am gei
+- 🌱 I’m currently learning the fundamentals of Wev Development
+- 💬 You can reach me at [John Patrick](https://www.facebook.com/Jpatrickzxc/) || jpatrickzephyr@gmail.com
+- ⚡ Fun fact: no fun facts about me xd
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beefysalad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisvillegas&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
