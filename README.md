@@ -9,10 +9,11 @@
 - ⚡ Fun fact: no fun facts about me xd
 ---
 <div align ='center'>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=beefysalad&theme=merko" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=beefysalad&theme=merko&show_icons=true&count_private=true" />
+  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com?user=beefysalad&theme=merko" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisvillegas&theme=merko&layout=compact" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=beefysalad&theme=merko&show_icons=true&count_private=true" />
+  
 </div>
 <div align ='center'>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisvillegas&theme=merko" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisvillegas&theme=merko" />
+  
 </div>
