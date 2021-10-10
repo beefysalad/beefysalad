@@ -1,12 +1,13 @@
 ### Hi there, I'm Patrick 👋
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${beefysalad}.${beefysalad})
 ---
-#### Im currently an undergrad of the course Computer Engineering in Cebu Insitute of Technology - University.
+#### Currently an undergrad of the course Computer Engineering in Cebu Insitute of Technology - University.
 
 
-- 🌱 I’m currently learning the fundamentals of Web Development
+- 🌱 I’m currently learning React
 - 💬 You can reach me at [John Patrick](https://www.facebook.com/Jpatrickzxc/) || jpatrickzephyr@gmail.com
-- ⚡ Fun fact: no fun facts about me xd
+- ⚡ Fun fact: I luv playin videogames ;v
 ---
 <div align ='center'>
   <img width="33%" src="https://github-readme-streak-stats.herokuapp.com?user=beefysalad&theme=merko" />
