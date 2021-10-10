@@ -11,7 +11,7 @@
 
 - 🌱 Currently I'm learning React
 - 💬 You can reach me at [John Patrick](https://www.facebook.com/Jpatrickzxc/) || jpatrickzephyr@gmail.com
-- ⚡ Fun fact: I luv playin videogames ;v
+- ⚡ Facts about me: Weeb and Gamer
 ---
 
 
