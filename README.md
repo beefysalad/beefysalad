@@ -13,7 +13,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beefysalad&theme=merko&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src='https://res.cloudinary.com/dhqqwdevm/image/upload/v1633857653/DEV/g9dgdjrcnx7otyq42hzz.gif' />
 
 <!--START_SECTION:waka-->
 ```text
