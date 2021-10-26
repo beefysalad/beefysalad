@@ -21,8 +21,8 @@
   <img width="33%" src="https://github-readme-streak-stats.herokuapp.com?user=beefysalad&theme=merko" />
   <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisvillegas&theme=merko&layout=compact" />
   <img width="33%" src="https://github-readme-stats.vercel.app/api?username=beefysalad&theme=merko&show_icons=true&count_private=true" />
-  
 </span>
+
 <hr>
 
 <div align ='center'>
