@@ -11,7 +11,6 @@
 
 - Currently I'm learning React
 - You can reach me at [John Patrick](https://www.facebook.com/Jpatrickzxc/) || jpatrickzephyr@gmail.com
-- Facts about me: Weeb and Gamer
 - Visit my [Website Porfolio](https://beefysalad.github.io/My-Portfolio/)
 
 
