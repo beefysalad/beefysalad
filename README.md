@@ -7,11 +7,9 @@
    <img width='500px' height='300px' src="https://raw.githubusercontent.com/beefysalad/beefysalad/main/d545e4672185c06b2e0a73ffe713461d.gif"/>
 </div>
 <hr>
-<p align='center'>I am an undergrad of Computer Engineering at <b><i>Cebu Insitute of Technology - University.</i></b></p>
+<p align='center'>BS in Computer Engineering student at Cebu Institute of Technology - University</i></b></p>
 
-- Currently I'm learning React
-- You can reach me at [John Patrick](https://www.facebook.com/Jpatrickzxc/) || jpatrickzephyr@gmail.com
-- Visit my [Website Porfolio](https://beefysalad.github.io/My-Portfolio/)
+
 
 
 ---
