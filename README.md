@@ -7,7 +7,7 @@
    <img width='500px' height='300px' src="https://raw.githubusercontent.com/beefysalad/beefysalad/main/d545e4672185c06b2e0a73ffe713461d.gif"/>
 </div>
 <hr>
-<p align='center'>BS in Computer Engineering student at Cebu Institute of Technology - University</i></b></p>
+
 
 
 
