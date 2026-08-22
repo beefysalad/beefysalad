@@ -1,4 +1,4 @@
-# Hey, I'm John Patrick
+# Hey, I'm Patrick
 
 I'm a developer who likes turning messy ideas into working software.
 
