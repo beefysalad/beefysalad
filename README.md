@@ -6,6 +6,19 @@ Most of my newer work lives around full-stack TypeScript, product prototypes,
 and practical tools. I also like projects where code touches the real world:
 IoT, automation, dashboards, and systems that make a workflow less annoying.
 
+```txt
+currently: shipping web apps, tightening backend patterns, and building useful experiments
+```
+
+<p align="center">
+  <img alt="John Patrick's GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beefysalad&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img height="165" alt="John Patrick's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=beefysalad&theme=github_dark" />
+  <img height="165" alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beefysalad&theme=github_dark" />
+</p>
+
 ## What I build
 
 - Full-stack web apps with TypeScript, Node.js, and modern frontend tooling
@@ -23,20 +36,33 @@ IoT, automation, dashboards, and systems that make a workflow less annoying.
 
 ## Projects worth opening
 
-| Project | What it is |
-| --- | --- |
-| [Wanderly](https://github.com/beefysalad/Wanderly) | Group trip planning app with a deployed web experience at [wanderly.quest](https://wanderly.quest). |
-| [Nexion](https://github.com/beefysalad/nexion-monorepo) | Full-stack TypeScript monorepo template and app foundation. |
-| [Penni](https://github.com/beefysalad/Penni) | Finance-oriented app experiment across mobile, web, and API pieces. |
-| [advet-agrinex](https://github.com/beefysalad/advet-agrinex) | Recent TypeScript project in the web/product space. |
-| [IOT Door Lock System](https://github.com/beefysalad/IOT-Door-Lock-System) | Older C++/Arduino project connecting software with hardware. |
+| Project | Stack | What it is |
+| --- | --- | --- |
+| [Wanderly](https://github.com/beefysalad/Wanderly) | `TypeScript` | Group trip planning app with a deployed web experience at [wanderly.quest](https://wanderly.quest). |
+| [Nexion](https://github.com/beefysalad/nexion-monorepo) | `TypeScript` `Monorepo` | Full-stack TypeScript monorepo template and app foundation. |
+| [Penni](https://github.com/beefysalad/Penni) | `TypeScript` `Mobile` | Finance-oriented app experiment across mobile, web, and API pieces. |
+| [advet-agrinex](https://github.com/beefysalad/advet-agrinex) | `TypeScript` | Recent TypeScript project in the web/product space. |
+| [IOT Door Lock System](https://github.com/beefysalad/IOT-Door-Lock-System) | `C++` `Arduino` | Older project connecting software with hardware. |
 
 ## Toolbox
 
-```txt
-TypeScript  JavaScript  Node.js  Python  C++  EJS
-Next.js     APIs        Git      MySQL   MongoDB
-```
+<p align="left">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-111827?style=for-the-badge&logo=arduino&logoColor=00878F" />
+</p>
 
 ## Elsewhere
 
