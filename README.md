@@ -53,7 +53,9 @@ currently: shipping web apps, tightening backend patterns, and building useful e
   <img alt="C++" src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-111827?style=for-the-badge&logo=angular&logoColor=DD0031" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+  <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge&logo=shadcnui&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
   <img alt="Express" src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
@@ -62,6 +64,8 @@ currently: shipping web apps, tightening backend patterns, and building useful e
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-111827?style=for-the-badge&logo=arduino&logoColor=00878F" />
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=claude&logoColor=D97757" />
+  <img alt="Codex" src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ## Elsewhere
