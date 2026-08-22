@@ -47,12 +47,20 @@ currently: shipping web apps, tightening backend patterns, and building useful e
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
   <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-0D1117?style=for-the-badge&logo=shadcnui&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
   <img alt="Express" src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="Fastify" src="https://img.shields.io/badge/Fastify-0D1117?style=for-the-badge&logo=fastify&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
   <img alt="Git" src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img alt="Apigee" src="https://img.shields.io/badge/Apigee-0D1117?style=for-the-badge&logo=apigee&logoColor=FF6D00" />
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00878F" />
   <img alt="Claude" src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=claude&logoColor=D97757" />
   <img alt="Codex" src="https://img.shields.io/badge/Codex-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
