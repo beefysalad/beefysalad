@@ -11,12 +11,12 @@ currently: shipping web apps, tightening backend patterns, and building useful e
 ```
 
 <p align="center">
-  <img alt="John Patrick's GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beefysalad&theme=github_dark" />
+  <img alt="John Patrick's GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beefysalad&theme=chartreuse_dark" />
 </p>
 
 <p align="center">
-  <img height="165" alt="John Patrick's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=beefysalad&theme=github_dark" />
-  <img height="165" alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beefysalad&theme=github_dark" />
+  <img height="165" alt="John Patrick's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=beefysalad&theme=chartreuse_dark" />
+  <img height="165" alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beefysalad&theme=chartreuse_dark" />
 </p>
 
 ## What I build
@@ -34,41 +34,26 @@ currently: shipping web apps, tightening backend patterns, and building useful e
 - Turning small product ideas into something real enough to test
 - Keeping projects practical, shipped, and easy to understand later
 
-## Projects worth opening
-
-| Project | Stack | What it is |
-| --- | --- | --- |
-| [Wanderly](https://github.com/beefysalad/Wanderly) | `TypeScript` | Group trip planning app with a deployed web experience at [wanderly.quest](https://wanderly.quest). |
-| [Nexion](https://github.com/beefysalad/nexion-monorepo) | `TypeScript` `Monorepo` | Full-stack TypeScript monorepo template and app foundation. |
-| [Penni](https://github.com/beefysalad/Penni) | `TypeScript` `Mobile` | Finance-oriented app experiment across mobile, web, and API pieces. |
-| [advet-agrinex](https://github.com/beefysalad/advet-agrinex) | `TypeScript` | Recent TypeScript project in the web/product space. |
-| [IOT Door Lock System](https://github.com/beefysalad/IOT-Door-Lock-System) | `C++` `Arduino` | Older project connecting software with hardware. |
-
 ## Toolbox
 
 <p align="left">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-111827?style=for-the-badge&logo=angular&logoColor=DD0031" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-  <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
-  <img alt="Express" src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-111827?style=for-the-badge&logo=arduino&logoColor=00878F" />
-  <img alt="Claude" src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=claude&logoColor=D97757" />
-  <img alt="Codex" src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=39FF14" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=39FF14" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=39FF14" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=39FF14" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=39FF14" />
+  <img alt="React" src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=39FF14" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=39FF14" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=39FF14" />
+  <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-0D1117?style=for-the-badge&logo=shadcnui&logoColor=39FF14" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=39FF14" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=39FF14" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=39FF14" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=39FF14" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=39FF14" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14" />
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=39FF14" />
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=claude&logoColor=39FF14" />
+  <img alt="Codex" src="https://img.shields.io/badge/Codex-0D1117?style=for-the-badge&logo=openai&logoColor=39FF14" />
 </p>
-
-## Elsewhere
-
-- Portfolio: [ptrckk.dev](https://www.ptrckk.dev/)
-- GitHub: [@beefysalad](https://github.com/beefysalad)
