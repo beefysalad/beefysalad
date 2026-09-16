@@ -33,6 +33,7 @@ currently: shipping web apps, tightening backend patterns, and building useful e
 - Building faster with reusable app templates and monorepo patterns
 - Turning small product ideas into something real enough to test
 - Keeping projects practical, shipped, and easy to understand later
+- Agentic and autonomous coding
 
 ## Toolbox
 
@@ -43,6 +44,7 @@ currently: shipping web apps, tightening backend patterns, and building useful e
   <img alt="C++" src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
   <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-0D1117?style=for-the-badge&logo=shadcnui&logoColor=white" />
