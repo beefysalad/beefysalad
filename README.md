@@ -1,13 +1,13 @@
 # Hey, I'm Patrick
 
-I'm a developer who likes turning messy ideas into working software.
+I'm a software engineer who likes turning messy ideas into working softwares.
 
-Most of my newer work lives around full-stack TypeScript, product prototypes,
+Most of my newer work lives around full-stack TypeScript ecosystems, product prototypes,
 and practical tools. I also like projects where code touches the real world:
 IoT, automation, dashboards, and systems that make a workflow less annoying.
 
 ```txt
-currently: shipping web apps, tightening backend patterns, and building useful experiments
+currently: building useful side experiments
 ```
 
 <p align="center">
@@ -30,10 +30,10 @@ currently: shipping web apps, tightening backend patterns, and building useful e
 ## Current interests
 
 - Sharpening backend architecture and clean API design
-- Building faster with reusable app templates and monorepo patterns
-- Turning small product ideas into something real enough to test
-- Keeping projects practical, shipped, and easy to understand later
+- System Design and Architecture
 - Agentic and autonomous coding
+- Mobile Development
+  
 
 ## Toolbox
 
