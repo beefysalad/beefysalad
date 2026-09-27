@@ -19,21 +19,13 @@ Next.js/TypeScript on the web, with the occasional detour into hardware when the
 
 ### Wanderly — live at [wanderly.quest](https://wanderly.quest)
 
-<img src="https://raw.githubusercontent.com/beefysalad/Wanderly/dev/public/wanderly.png" alt="Wanderly" width="120" align="right" />
-
 Groups planning a trip need one shared source of truth for the itinerary, activities, and who-owes-who on expenses — instead of a group chat and five different spreadsheets. Next.js 15 App Router, service/repository-layered API, Prisma/Postgres, Firebase auth plus a signed guest-token flow so non-account members can still view and edit their group, and Socket.IO for live updates when someone adds an activity or logs an expense.
 
-<br clear="right"/>
-
 ### Penni — personal finance, web + mobile on one API
-
-<img src="https://raw.githubusercontent.com/beefysalad/penni-web/main/public/penni.webp" alt="Penni" width="600" />
 
 Split into three repos (mobile, web, API) so the same Clerk-authenticated backend serves an Expo/React Native app and a Next.js 16 web client without duplicating business logic. Web side runs TanStack Query, Radix/shadcn, and Zod-validated forms; mobile runs Nativewind and Expo Router.
 
 ### Tempo — gamified Pomodoro planner, live at [tempo.qpon](https://tempo.qpon)
-
-<img src="https://raw.githubusercontent.com/beefysalad/tempo-lander/main/public/dashboard.png" alt="Tempo" width="600" />
 
 A study timer that actually gets used: three focus/break intervals (Blitz/Focus/Deep), XP and levels per session, and streaks tracked in the user's local timezone so they don't break from a timezone bug instead of an actual missed day. Next.js 16, Prisma/Postgres, Clerk.
 
