@@ -1,69 +1,38 @@
-# Hey, I'm Patrick
+# Patrick
 
-I'm a software engineer who likes turning messy ideas into working softwares.
-
-Most of my newer work lives around full-stack TypeScript ecosystems, product prototypes,
-and practical tools. I also like projects where code touches the real world:
-IoT, automation, dashboards, and systems that make a workflow less annoying.
+I build full-stack products end to end — Next.js/TypeScript on the web, with the occasional detour into hardware when the problem wants a sensor or a lock instead of a button.
 
 ```txt
-currently: building useful side experiments
+currently: building Wanderly, a group trip planner (wanderly.quest)
 ```
 
-<p align="center">
-  <img alt="John Patrick's GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beefysalad&theme=chartreuse_dark" />
-</p>
+## Start here
 
-<p align="center">
-  <img height="165" alt="John Patrick's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=beefysalad&theme=chartreuse_dark" />
-  <img height="165" alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beefysalad&theme=chartreuse_dark" />
-</p>
+- **[Wanderly](https://github.com/beefysalad/Wanderly)** — live product, real-time group trip planning
+- **[Penni](https://github.com/beefysalad/Penni)** ([web](https://github.com/beefysalad/penni-web) · [API](https://github.com/beefysalad/Penni-API)) — personal finance, one backend serving web and mobile
+- **[Tempo](https://github.com/beefysalad/pomodoro)** — gamified Pomodoro study planner
+- Everything else is smaller experiments and boilerplates — poke around if you're curious, no promises on polish
 
-## What I build
+## What I've shipped
 
-- Full-stack web apps with TypeScript, Node.js, and modern frontend tooling
-- Product experiments that go from rough idea to deployed prototype
-- APIs, dashboards, and internal-tool-style workflows
-- Hardware-adjacent projects when the problem is more interesting with sensors,
-  locks, boards, or devices involved
+### Wanderly — group trip planning, live at [wanderly.quest](https://wanderly.quest)
+Groups planning a trip need one shared source of truth for the itinerary, activities, and who-owes-who on expenses — instead of a group chat and five different spreadsheets. Built on Next.js 15 App Router with a service/repository-layered API, Prisma/Postgres, Firebase auth plus a signed guest-token flow so non-account members can still view and edit their group, and Socket.IO for live updates when someone adds an activity or logs an expense. Currently mid-refactor toward stricter Zod validation and a cleaner service/repo split across the older routes.
 
-## Current interests
+### Penni — personal finance, web + mobile on one API
+Split into three repos ([mobile](https://github.com/beefysalad/Penni), [web](https://github.com/beefysalad/penni-web), [API](https://github.com/beefysalad/Penni-API)) so the same Clerk-authenticated backend serves an Expo/React Native app and a Next.js 16 web client without duplicating business logic. Web side uses TanStack Query, Radix/shadcn, and Zod-validated forms; mobile uses Nativewind and Expo Router.
 
-- Sharpening backend architecture and clean API design
-- System Design and Architecture
-- Agentic and autonomous coding
-- Mobile Development
-  
+### Tempo — gamified Pomodoro planner, live at [tempo.qpon](https://tempo.qpon)
+A study timer that actually gets used: three focus/break intervals (Blitz/Focus/Deep), XP and levels per session, and streaks tracked in the user's local timezone so they don't break from a timezone bug instead of an actual missed day. Next.js 16, Prisma/Postgres, Clerk.
 
-## Toolbox
+## Stack
 
-<p align="left">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-  <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-0D1117?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
-  <img alt="Express" src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white" />
-  <img alt="Fastify" src="https://img.shields.io/badge/Fastify-0D1117?style=for-the-badge&logo=fastify&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img alt="Apigee" src="https://img.shields.io/badge/Apigee-0D1117?style=for-the-badge&logo=apigee&logoColor=FF6D00" />
-  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00878F" />
-  <img alt="Claude" src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=claude&logoColor=D97757" />
-  <img alt="Codex" src="https://img.shields.io/badge/Codex-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+**Frontend** — TypeScript, React, Next.js, React Native, Tailwind, shadcn/ui
+**Backend** — Node.js, NestJS, Express, Fastify, Python/FastAPI
+**Data** — PostgreSQL, MySQL, MongoDB, Prisma, Redis
+**Infra** — Firebase, Vercel, Git/GitHub
+**Hardware** — Arduino, C++
+**AI tooling** — Claude, Codex — day to day, not just for show
+
+## Elsewhere
+
+[patr1ck.dev](https://www.patr1ck.dev) · Cebu, PH
