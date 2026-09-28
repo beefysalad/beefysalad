@@ -21,7 +21,7 @@ Next.js/TypeScript on the web, with the occasional detour into hardware when the
 
 Groups planning a trip need one shared source of truth for the itinerary, activities, and who-owes-who on expenses — instead of a group chat and five different spreadsheets. Next.js 15 App Router, service/repository-layered API, Prisma/Postgres, Firebase auth plus a signed guest-token flow so non-account members can still view and edit their group, and Socket.IO for live updates when someone adds an activity or logs an expense.
 
-### Penni — personal finance, web + mobile on one API
+### Penni — personal finance, web + mobile on one API. Web live at [Penni](https://penni-finance.vercel.app)
 
 Split into three repos (mobile, web, API) so the same Clerk-authenticated backend serves an Expo/React Native app and a Next.js 16 web client without duplicating business logic. Web side runs TanStack Query, Radix/shadcn, and Zod-validated forms; mobile runs Nativewind and Expo Router.
 
