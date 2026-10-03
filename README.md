@@ -8,14 +8,7 @@ Next.js/TypeScript on the web, with the occasional detour into hardware when the
 
 </div>
 
-## Start here
-
-- **[Wanderly](https://github.com/beefysalad/Wanderly)** — live product, real-time group trip planning
-- **[Penni](https://github.com/beefysalad/Penni)** ([web](https://github.com/beefysalad/penni-web) · [API](https://github.com/beefysalad/Penni-API)) — personal finance, one backend serving web and mobile
-- **[Tempo](https://github.com/beefysalad/pomodoro)** — gamified Pomodoro study planner
-- Everything else is smaller experiments and boilerplates — poke around if you're curious, no promises on polish
-
-## What I've shipped
+## Current Projects
 
 ### Wanderly — live at [wanderly.quest](https://wanderly.quest)
 
