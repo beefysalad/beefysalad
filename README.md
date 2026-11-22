@@ -10,6 +10,14 @@ Next.js/TypeScript on the web, with the occasional detour into hardware when the
 
 ## Current Projects
 
+### kaze — a small, fast terminal for Claude Code, in Go · [repo](https://github.com/beefysalad/kaze-terminal)
+
+風 "wind". My own terminal, built for working in Claude Code all day: a sidebar of sessions, a nudge when a session needs me or is done, and not much else. Go with Gio, draws only the rows that changed, so an idle window sits at 0.0% CPU and 99% of frames in a streamed Claude Code reply drew in 5.1 ms or less (measured on Windows). Runs on Windows and macOS.
+
+### Shima — a free Dynamic Island for the MacBook notch · [site](https://beefysalad.github.io/Shima/) · [repo](https://github.com/beefysalad/Shima)
+
+島 "island". Hover the notch and a small island springs out with Spotify now-playing, a Calendar and Reminders tab, a camera mirror, and Bluetooth device banners when AirPods connect. Native Swift and SwiftUI in a non-activating panel, SwiftPM only, no third-party dependencies, event-driven with no polling while idle.
+
 ### Wanderly — live at [wanderly.quest](https://wanderly.quest)
 
 Groups planning a trip need one shared source of truth for the itinerary, activities, and who-owes-who on expenses — instead of a group chat and five different spreadsheets. Next.js 15 App Router, service/repository-layered API, Prisma/Postgres, Firebase auth plus a signed guest-token flow so non-account members can still view and edit their group, and Socket.IO for live updates when someone adds an activity or logs an expense.
