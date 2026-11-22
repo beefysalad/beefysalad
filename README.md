@@ -10,7 +10,7 @@ Next.js/TypeScript on the web, with the occasional detour into hardware when the
 
 ## Current Projects
 
-### kaze — a small, fast terminal for Claude Code, in Go · [repo](https://github.com/beefysalad/kaze-terminal)
+### kaze — a small, fast terminal for Claude Code, in Go · [site](https://beefysalad.github.io/kaze-terminal/) · [repo](https://github.com/beefysalad/kaze-terminal)
 
 風 "wind". My own terminal, built for working in Claude Code all day: a sidebar of sessions, a nudge when a session needs me or is done, and not much else. Go with Gio, draws only the rows that changed, so an idle window sits at 0.0% CPU and 99% of frames in a streamed Claude Code reply drew in 5.1 ms or less (measured on Windows). Runs on Windows and macOS.
 
